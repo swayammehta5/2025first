@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+}
+h1{
+    text-align: center;
+}
+.division{
+    height: 30px;
+    width: 50px;
+    padding: 5%;
+}
+#first{
+    height: 100px;
+    width: 100px;
+    background-color: whitesmoke;
+    margin: 30px;
+}
+#second{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    margin: 30px;
+}
+#third{
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    margin: 30px;
+}
+.main{
+    height:500px;
+    width: 400px;
+    background-color: blue;
+    border: 30px groove orange;
+    border-radius: 15px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.afterbody{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
